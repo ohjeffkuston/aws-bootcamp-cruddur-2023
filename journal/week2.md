@@ -6,5 +6,5 @@
 
 - Honeycomb for the frontend application to observe network latency between the frontend and backend.
 
-![Honeycomb observability](Assets/Dockerfile-build.png)
+![Honeycomb observability](Assets/honeycomb2.png)
 
